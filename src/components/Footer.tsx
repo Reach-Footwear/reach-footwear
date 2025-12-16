@@ -10,7 +10,7 @@ const Footer = () => {
     { label: "About REACH Footwear Studio", path: "/about" },
     { label: "Benefits of REACH Footwear Studio", path: "/benefits" },
     // { label: "Learning Guides", path: "/learningguide" },
-    { label: "Presentations", path: "/presentations" },
+    // { label: "Presentations", path: "/presentations" },
     { label: "REACH Footwear Studio Images", path: "/rmmimages" },
     // { label: "Articles", path: "/articles" },
     // { label: "Case Studies", path: "/casestudies" },
